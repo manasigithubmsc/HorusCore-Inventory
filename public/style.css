@@ -1,0 +1,14 @@
+.container{
+    justify-items: center;
+    align-items: center;
+    height: 100%;
+}
+
+#searchInput {
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+  }
+   
+
+  
